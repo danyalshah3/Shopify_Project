@@ -3,7 +3,7 @@ import Welcome from './components/Welcome'
 import Like from './components/Likes'
 import {Component} from "react"
 import './App.css';
-import { getByPlaceholderText } from '@testing-library/react';
+// import { getByPlaceholderText } from '@testing-library/react';
 
 
 
