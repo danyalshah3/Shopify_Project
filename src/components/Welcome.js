@@ -6,7 +6,7 @@ class Welcome extends Component {
     render () {
     return <div className="welcome" >
            <div >
-            <h1>NASA IMAGES</h1>
+            <h1>SPACETAGRAM</h1>
             </div>
          </div>
         }
